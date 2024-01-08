@@ -1,7 +1,7 @@
 import openai
 import gradio
 
-openai.api_key = "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  "
+openai.api_key = "Enter your OpenAI API Here. "
 
 messages = [{"role": "system", "content": "You are a Super Smart ChatBot named K "}]
 
